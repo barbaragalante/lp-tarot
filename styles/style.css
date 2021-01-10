@@ -1,0 +1,43 @@
+
+a:hover{
+    text-decoration: none;
+}
+
+.bg-dark {
+    background-color: #000000;
+}
+
+nav a:hover {
+    font-weight: 500;
+}
+
+.navbar-toggler{
+    background-color: #ffffff;
+}
+
+.navbar-toggler-icon{
+    background-color: #ffffff;
+}
+
+.img-logo{
+    width: 70px;
+}
+
+.img-principal{
+    object-fit:cover;
+}
+
+.habilidades{
+   font-size: 1.8 rem;
+}
+
+.tamanho-card{
+    width: 18rem;
+}
+
+.imagem-cards{
+    object-fit: cover;
+    object-position: top;
+  
+}
+
